@@ -1,4 +1,4 @@
-# Simple SciPy Pipeline
+# SciPy Pipeline
 ## Python executed in terminal 
 
 I wrote this for a set of Python files that you want to execute in a certain order.
